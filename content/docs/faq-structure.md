@@ -8,7 +8,7 @@ category: FAQ
 
 ### Is there a recommended way to structure React projects? {#is-there-a-recommended-way-to-structure-react-projects}
 
-React doesn't have opinions on how you put files into folders. That said there are a few common approaches popular in the ecosystem you may want to consider.
+React doesn't have opinions on how you put files into folders. That said, there are a few common approaches popular in the ecosystem you may want to consider.
 
 #### Grouping by features or routes {#grouping-by-features-or-routes}
 
